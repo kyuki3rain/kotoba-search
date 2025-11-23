@@ -5,4 +5,4 @@ python = "latest"
 run = "python scripts/build_words.py"
 
 [tasks.serve]
-run = "python -m http.server --directory public 8000"
+run = "python -m http.server --directory docs 8000"
