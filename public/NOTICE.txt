@@ -1,0 +1,7 @@
+This project bundles word data derived from the IPA dictionary (mecab-ipadic).
+
+Source repository: https://github.com/taku910/mecab.git
+Source revision: 61b90ba6e669dc2d7d533d4a80d206f3b31d52b1
+Build timestamp (UTC): 2025-11-23T16:31:59Z
+
+The redistributed data is governed by the license terms in COPYING-ipadic.txt.
